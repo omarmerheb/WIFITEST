@@ -29,7 +29,7 @@ This script was designed to be simple, yet flexible, letting you choose between 
   ```bash
   pkg install termux-api
 
-
+---
 
   ## WHY?
   where i live every couple of weeks internet connection from my ISP gets unstable you have internet access now you wont in 10 seconds its gone for 30 minutes and back for 5 minutes and so on
