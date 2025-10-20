@@ -28,3 +28,17 @@ This script was designed to be simple, yet flexible, letting you choose between 
 - Termux API installed (`termux-api` package)
   ```bash
   pkg install termux-api
+
+
+
+  ## WHY?
+  where i live every couple of weeks internet connection from my ISP gets unstable you have internet access now you wont in 10 seconds its gone for 30 minutes and back for 5 minutes and so on
+  so i wanted to have a way of knowing when internet access came back while i touch some grass since its only back for a short while
+
+  other use cases could include network troubleshooting or setting up or idfk anything you want really instead of manually typing out ping google.com 12 times 
+  have fun 
+
+
+
+
+  DONATE : 15o7Md2HJrQU2rSNyf5Azt8SPu9aBCCLi9 BTC
