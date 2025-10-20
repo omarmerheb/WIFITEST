@@ -38,7 +38,7 @@ This script was designed to be simple, yet flexible, letting you choose between 
   other use cases could include network troubleshooting or setting up or idfk anything you want really instead of manually typing out ping google.com 12 times 
   have fun 
 
-
+let me know if anyone wants a linux version with even more features
 
 
   DONATE : 15o7Md2HJrQU2rSNyf5Azt8SPu9aBCCLi9 BTC
